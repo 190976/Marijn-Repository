@@ -1,19 +1,14 @@
 @charset "UTF-8";
-.niet{
-	color: chartreuse
-}
+
 
 body{
 	background-color: darkorange
 }
 
-#anders{
-	
-	color:darkred
 
-}
-#zaza{
-	font-size: large;
+
+.zaza{
+	font-size:large;
 	font-style:italic;
 }
 .myheader{
@@ -22,9 +17,8 @@ body{
 	height: 50px;
 	
 }
-.nicename{
+#nicename{
+    border: thick dotted  #FF1B1F;
 	background-color: aqua;
-	padding: 15px;
-	
-	
+    padding: 10px;
 }
