@@ -1,0 +1,30 @@
+@charset "UTF-8";
+.niet{
+	color: chartreuse
+}
+
+body{
+	background-color: darkorange
+}
+
+#anders{
+	
+	color:darkred
+
+}
+#zaza{
+	font-size: large;
+	font-style:italic;
+}
+.myheader{
+	background-color:floralwhite; 
+	widht: 100%;
+	height: 50px;
+	
+}
+.nicename{
+	background-color: aqua;
+	padding: 15px;
+	
+	
+}
