@@ -1,0 +1,15 @@
+@charset "UTF-8";
+body {
+	background-color:black;
+		
+}
+.col {
+	background-image: url("images/BLØF_ZIGGO-1180x490.jpg")
+}
+.col-6 {
+	background-color:#CB8B42
+}
+
+.img-fluid {
+	margin-top: 60px;
+}
